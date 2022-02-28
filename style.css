@@ -9,9 +9,12 @@ a{
     font-size: 25px;
     position: sticky;
     top: 0;
-    
-    
+    background-color: black;
+    border: 15px;
+    border-color: black;
 }
+
+
 
 
 img {
@@ -29,7 +32,6 @@ h1{
     color: crimson;
     font-size: 64px;
     position: sticky;
-    
 }
 
 audio{  
